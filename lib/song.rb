@@ -22,5 +22,9 @@ class Song
     self.all << song
     song
   end
+  
+  def self.create_by_name
+    
+  end
 
 end
